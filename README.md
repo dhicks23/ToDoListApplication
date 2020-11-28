@@ -1,5 +1,5 @@
 #ToDoList Application by Daniel Hicks
-You open this application by clicking the index html.
+You open this application by clicking the Todo List Application html link that is located in the Final Project section of my Website.
 
 You can use any browser to run this application.
 
